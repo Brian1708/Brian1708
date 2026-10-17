@@ -1,5 +1,4 @@
-# ¡Hola, qué tal! 👋 Welcome to my profile
-
+# I'm Brian
 ## 🚀 About Me
 I am a second-semester student in the Systems and Programming Technician program, with a passion for software development, databases, and technology.
 
