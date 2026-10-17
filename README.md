@@ -11,10 +11,10 @@ I am a second-semester Systems and Programming Technician student passionate abo
 
 ## 📬 How to reach me
 <p>
-  <a href="mailto:tu-correo@example.com">
+  <a href="mailto:jbrian.ortega.granobles@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
   </a>
-  <a href="https://instagram.com/tu_usuario" target="_blank">
+  <a href="https://instagram.com/jbrian2317" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" />
   </a>
 </p>
