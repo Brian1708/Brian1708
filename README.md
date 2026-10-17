@@ -10,5 +10,11 @@ I am a second-semester Systems and Programming Technician student passionate abo
 </p>
 
 ## 📬 How to reach me
-- 📧 **Email:** [tu-correo@example.com](mailto:tu-correo@example.com)
-- 📸 **Instagram:** [@tu_usuario](https://instagram.com/tu_usuario)
+<p>
+  <a href="mailto:tu-correo@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
+  </a>
+  <a href="https://instagram.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" />
+  </a>
+</p>
